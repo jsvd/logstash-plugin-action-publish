@@ -1,0 +1,1 @@
+# logstash-plugin-action-publish
